@@ -1,0 +1,117 @@
+body
+{
+	
+	margin:0;
+	background-image:url("https://wallpaperaccess.com/full/3303773.jpg");
+}
+
+.search-bar
+{
+	width:400px;
+	height:100px;
+	margin-left:500px;
+	margin-top:235px;
+	padding-left:0px;
+	
+}
+.image
+{
+	border-radius:25px;
+	width:31px;
+	height:30px;
+	margin-top:20px;
+}
+.input-bar
+{
+	color:grey;
+	width:550px;
+	height:44px;
+	border-radius:50px;
+	font-size:18px;
+	padding-left:35px;
+	border:0;
+	position:relative;
+	text-decoration:none;
+}
+.inputbar:hover
+{
+	border:white;
+	text-decoration:none;
+}
+
+.top-left
+{
+	width:350px;
+	margin-top:30px;
+	margin-left:80%;
+	
+	
+}
+
+.top-right
+{
+	margin-top:-44px;
+	margin-left:92%;
+	
+	
+}
+.below-searchbar1
+{
+	width:45px;
+	height:45px;
+	margin-top:0;
+	margin-left:600px;
+	background:white;
+	border-radius:25px;
+	float:left;
+	
+}
+.below-searchbar2
+{
+	width:45px;
+	height:45px;
+	margin-top:0;
+	margin-left:50px;
+	background:white;
+	border-radius:25px;
+	float:left;
+	
+}
+.below-searchbar3
+{
+	width:45px;
+	height:45px;
+	margin-top:0;
+	margin-left:50px;
+	background:white;
+	border-radius:25px;
+	float:left;
+	
+}
+.below-searchbar4
+{
+	width:45px;
+	height:45px;
+	margin-top:0;
+	margin-left:50px;
+	background:white;
+	border-radius:25px;
+	float:left;
+	
+}
+.icon
+{
+	padding-top:10px;
+	padding-left:10px;
+}
+a
+{
+	font-family: arial,sans-serif;
+	font-size:17px;
+	color:white;
+	text-decoration:none;
+}
+
+
+
+
